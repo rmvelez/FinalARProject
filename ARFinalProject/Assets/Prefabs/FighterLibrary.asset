@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: FighterLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4641520990128092568
+  m_GuidHigh: 6024769038401606570
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5057673273871868528
+      m_GuidHigh: 6536009484536810881
+    m_SerializedTextureGuid:
+      m_GuidLow: 6207298338566512272
+      m_GuidHigh: 14490560428806217739
+    m_Size: {x: 0.5, y: 0.69733334}
+    m_SpecifySize: 1
+    m_Name: Vamperor
+    m_Texture: {fileID: 2800000, guid: 85211e90c0f356240ba0538befcf18c9, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4688498534769784359
+      m_GuidHigh: 6055910030246682782
+    m_SerializedTextureGuid:
+      m_GuidLow: 13647037645752335767
+      m_GuidHigh: 4505254833870130153
+    m_Size: {x: 0.5, y: 0.69733334}
+    m_SpecifySize: 1
+    m_Name: Monstrosity
+    m_Texture: {fileID: 2800000, guid: 07737d97046fbd64e9cb70cb66e1853e, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5599282040821709729
+      m_GuidHigh: 6761188187889368454
+    m_SerializedTextureGuid:
+      m_GuidLow: 4450833611350565213
+      m_GuidHigh: 8636145539265587961
+    m_Size: {x: 0.5, y: 0.69733334}
+    m_SpecifySize: 1
+    m_Name: Ghouligan
+    m_Texture: {fileID: 2800000, guid: 86eb615d89963dc4f9ea7f989cc0d977, type: 3}
